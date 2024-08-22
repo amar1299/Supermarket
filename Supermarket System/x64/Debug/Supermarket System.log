@@ -1,0 +1,37 @@
+﻿  Supermarket System.cpp
+E:\Supermarket System\Supermarket System\Supermarket System.cpp(71,39): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\Supermarket System\Supermarket System\Supermarket System.cpp(76,42): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\Supermarket System\Supermarket System\Supermarket System.cpp(90,49): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+E:\Supermarket System\Supermarket System\Supermarket System.cpp(90,49): warning C4244:         with
+E:\Supermarket System\Supermarket System\Supermarket System.cpp(90,49): warning C4244:         [
+E:\Supermarket System\Supermarket System\Supermarket System.cpp(90,49): warning C4244:             _Ty=int
+E:\Supermarket System\Supermarket System\Supermarket System.cpp(90,49): warning C4244:         ]
+E:\Supermarket System\Supermarket System\Supermarket System.cpp(185,39): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\Supermarket System\Supermarket System\Supermarket System.cpp(190,43): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\Supermarket System\Supermarket System\Supermarket System.cpp(204,50): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+E:\Supermarket System\Supermarket System\Supermarket System.cpp(204,50): warning C4244:         with
+E:\Supermarket System\Supermarket System\Supermarket System.cpp(204,50): warning C4244:         [
+E:\Supermarket System\Supermarket System\Supermarket System.cpp(204,50): warning C4244:             _Ty=int
+E:\Supermarket System\Supermarket System\Supermarket System.cpp(204,50): warning C4244:         ]
+E:\Supermarket System\Supermarket System\Supermarket System.cpp(299,39): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\Supermarket System\Supermarket System\Supermarket System.cpp(304,45): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\Supermarket System\Supermarket System\Supermarket System.cpp(318,52): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+E:\Supermarket System\Supermarket System\Supermarket System.cpp(318,52): warning C4244:         with
+E:\Supermarket System\Supermarket System\Supermarket System.cpp(318,52): warning C4244:         [
+E:\Supermarket System\Supermarket System\Supermarket System.cpp(318,52): warning C4244:             _Ty=int
+E:\Supermarket System\Supermarket System\Supermarket System.cpp(318,52): warning C4244:         ]
+E:\Supermarket System\Supermarket System\Supermarket System.cpp(414,39): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\Supermarket System\Supermarket System\Supermarket System.cpp(419,46): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\Supermarket System\Supermarket System\Supermarket System.cpp(433,53): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+E:\Supermarket System\Supermarket System\Supermarket System.cpp(433,53): warning C4244:         with
+E:\Supermarket System\Supermarket System\Supermarket System.cpp(433,53): warning C4244:         [
+E:\Supermarket System\Supermarket System\Supermarket System.cpp(433,53): warning C4244:             _Ty=int
+E:\Supermarket System\Supermarket System\Supermarket System.cpp(433,53): warning C4244:         ]
+E:\Supermarket System\Supermarket System\Supermarket System.cpp(529,39): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\Supermarket System\Supermarket System\Supermarket System.cpp(534,55): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\Supermarket System\Supermarket System\Supermarket System.cpp(548,62): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+E:\Supermarket System\Supermarket System\Supermarket System.cpp(548,62): warning C4244:         with
+E:\Supermarket System\Supermarket System\Supermarket System.cpp(548,62): warning C4244:         [
+E:\Supermarket System\Supermarket System\Supermarket System.cpp(548,62): warning C4244:             _Ty=int
+E:\Supermarket System\Supermarket System\Supermarket System.cpp(548,62): warning C4244:         ]
+  Supermarket System.vcxproj -> E:\Supermarket System\x64\Debug\Supermarket System.exe
